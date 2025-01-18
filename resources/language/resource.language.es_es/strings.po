@@ -1,0 +1,65 @@
+# Kodi Media Center language file
+# Addon Name: Radio Browser
+# Addon id: plugin.audio.radiobrowser
+# Addon Provider: pablogad
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: segler_alex@web.de\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: pablogad\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32000"
+msgid "Top 100 clicked stations"
+msgstr "Las 100 emisoras más escuchadas"
+
+msgctxt "#32001"
+msgid "Top 100 voted stations"
+msgstr "Las 100 emisoras más votadas"
+
+msgctxt "#32002"
+msgid "Last 100 changed stations"
+msgstr "Las 100 emisoras modificadas más recientemente"
+
+msgctxt "#32003"
+msgid "Last 100 clicked stations"
+msgstr "Las 100 emisoras escuchadas más recientemente"
+
+msgctxt "#32004"
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgctxt "#32005"
+msgid "Countries"
+msgstr "Países"
+
+msgctxt "#32006"
+msgid "All"
+msgstr "Todas"
+
+msgctxt "#32007"
+msgid "Search..."
+msgstr "Buscar..."
+
+msgctxt "#32008"
+msgid "My Stations"
+msgstr "Mis emisoras"
+
+msgctxt "#32009"
+msgid "Remove Station"
+msgstr "Borrar emisora"
+
+msgctxt "#32010"
+msgid "Add Station"
+msgstr "Añadir emisora"
+
+msgctxt "#32011"
+msgid "Search Station"
+msgstr "Buscar emisora"
